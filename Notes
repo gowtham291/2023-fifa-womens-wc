@@ -17,3 +17,7 @@ https://www.espn.com/soccer/story/_/id/37917205/ea-sports-fifa-23-predicts-uswnt
 ![FIFA23_Sim](fifa23_sim.png)
 https://github.com/begolazoeg/FIFA-Women-s-World-Cup-ML/blob/main/Final%20model%20prediction%20WWC%20ML.ipynb
 ARE ENGLAND NOT-SO-DARK HORSES???
+
+
+TO TRIAL:
+- Filter out WC data, put into time series of most goals scored in each tournament and compare against the winners of said tournament.
