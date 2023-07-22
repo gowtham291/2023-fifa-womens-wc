@@ -10,4 +10,5 @@ A simple Logistic Regression model was trained on data from past international m
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
 
 On the eve of the World Cup, the model predicts England to win it. 
+
 ![Knockout Stage Bracket](model-based.png)
