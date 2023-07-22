@@ -8,3 +8,6 @@ The 2022 Men's WC brought light to the island nation of Qatar (and how a tiny is
 A simple Logistic Regression model was trained on data from past international matches. Patterns in the data were summarized in the form of two important features - the average scorring patterns and the frequency of recent results and their outcomes. Since the ability to score goals has been historically imperative to reaching the final stages of the tournaments, the average scoring pattern fo recent matches is idealized to define the teams' form coming into the tournament. In a results-oriented sport like football, teams are also impacted by recent results. Mentalities can change depending on if they come into the tournament on the back of long winning or losing streaks. Even though the dataset was devoid of FIFA rankings, the assumption was made, based on past tournament trends, that incorporating these rankings into the final statistics would only improve the prediction model's performance.
 
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
+
+On the eve of the World Cup, the model predicts England to win it. 
+![Knockout Stage Bracket](model-based.png)
