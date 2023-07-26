@@ -12,6 +12,6 @@ A simple Logistic Regression model was trained on data from past international m
 
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
 
-On the eve of the World Cup, the model predicts England to win it. Here's keeping track of ![how the model has done upto now](). 
+On the eve of the World Cup, the model predicts England to win it. As of July 26's Canada - Ireland match, model accuracy - 67%. 
 
 ![Knockout Stage Bracket](Images/model-based.png)
