@@ -14,4 +14,4 @@ The results were compared against a purely FIFA rankings-based prediction model.
 
 On the eve of the World Cup, the model predicts England to win it. Here's keeping track of ![how the model has done upto now](). 
 
-![Knockout Stage Bracket](model-based.png)
+![Knockout Stage Bracket](Images/model-based.png)
