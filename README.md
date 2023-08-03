@@ -12,6 +12,7 @@ A simple shallow learning model was trained on data from past international matc
 
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
 
-On the eve of the World Cup, the model predicts England to win it. As of July 28's China - Haiti match, model accuracy - 56%. 
+On the eve of the World Cup, the model predicts England to win it. The group stage model accuracy - 58%. Lost out to a ranking-based model by 10% points, but ah well. That showcases the multiple upset-containing World Cup that has transpired. 
 
-![Knockout Stage Bracket](Images/model-based.png)
+![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
+![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
