@@ -15,4 +15,6 @@ The results were compared against a purely FIFA rankings-based prediction model.
 On the eve of the World Cup, the model predicts England to win it. The group stage model accuracy - 58%. Lost out to a ranking-based model by 10% points, but ah well. That showcases the multiple upset-containing World Cup that has transpired. 
 
 ![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
+
+Not too bad upto now (self-reassures??)
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
