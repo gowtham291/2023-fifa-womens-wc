@@ -16,5 +16,5 @@ On the eve of the World Cup, the model predicts England to win it. The group sta
 
 ![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
 
-Not too bad upto now (self-reassures??)
+Not too bad upto now, 10/16 right (self-reassures??)
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
