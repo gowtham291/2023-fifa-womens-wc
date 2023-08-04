@@ -12,9 +12,12 @@ A simple shallow learning model was trained on data from past international matc
 
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
 
-On the eve of the World Cup, the model predicts England to win it. The group stage model accuracy - 58%. Lost out to a ranking-based model by 10% points, but ah well. That showcases the multiple upset-containing World Cup that has transpired. 
-
+On the eve of the World Cup, the model predicts England to win it. 
 ![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
 
-Comparing with actual results, not too bad upto now with 10/16 right (self-reassures??)
+Updates as we get through the tournament:
+
+Comparing with actual results of the group stage, the model predicted 58% of the games accurately. This means it lost out to a very simple ranking-based model by 10% points, but ah well. What we learn is that this is an indication that the model was trained on data that was not able to capture the entire story and the trends. It also showcases the multiple upsets that have this World Cup has seen transpire.
+
+Not too bad upto now maybe, with 10/16 Round of 16 teams right (self-reassures??)
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
