@@ -13,7 +13,8 @@ A simple shallow learning model was trained on data from past international matc
 The results were compared against a purely FIFA rankings-based prediction model. The predictions will also be compared against the actual tournament results. 
 
 On the eve of the World Cup, the model predicts England to win it. 
-![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
+![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png) \n
+
 
 Updates as we get through the tournament:
 
