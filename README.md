@@ -21,3 +21,8 @@ Comparing with actual results of the group stage, the model predicted 58% of the
 
 Not too bad upto now maybe, with 10/16 Round of 16 teams right (self-reassures??)
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
+RO16 Predictions based on Real Life Bracket:
+ - Spain v Netherlands - Winner : SPAIN
+ - Japan v Sweden - Winner : SWEDEN
+ - England v Colombia - Winner : ENGLAND
+ - Australia v France - Winner : AUSTRALIA
