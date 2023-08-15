@@ -32,8 +32,7 @@ RO16 Predictions based on Real Life Bracket:
 - France v Morocco - Winner : FRANCE
 
 
-Not too bad upto now maybe, with 10/16 Round of 16 teams right and 75% accuracy on RO16 results.
-![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
+10/16 Round of 16 teams right and 75% accuracy on RO16 results.
 
 
 QUARTER FINALS Predictions based on Real Life Bracket:
@@ -47,5 +46,7 @@ QUARTER FINALS Predictions based on Real Life Bracket:
 SEMI FINALS Predictions based on Real Life Bracket:
  - Spain v Sweden - Winner : SWEDEN
  - England v Australia - Winner : ENGLAND
+
+![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
 
 
