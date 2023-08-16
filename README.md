@@ -16,7 +16,7 @@ On the eve of the World Cup, the model predicts England to win it.
 ![Knockout Stage Prediction Bracket(based on Form-based Model)](Images/model-based.png)
 
 
-### Updates as we get through the tournament:
+## Updates as we get through the tournament:
 
 Comparing with actual results of the group stage, the model predicted 58% of the games accurately. This means it lost out to a very simple ranking-based model by 10% points, but ah well. What we learn is that this is an indication that the model was trained on data that was not able to capture the entire story and the trends. It also showcases the multiple upsets that have this World Cup has seen transpire.
 
@@ -32,7 +32,7 @@ RO16 Predictions based on Real Life Bracket:
 - France v Morocco - Winner : FRANCE
 
 
-10/16 Round of 16 teams right and 75% accuracy on RO16 results.
+### 10/16 Round of 16 teams right and 75% accuracy on RO16 results.
 
 
 QUARTER FINALS Predictions based on Real Life Bracket:
@@ -41,15 +41,15 @@ QUARTER FINALS Predictions based on Real Life Bracket:
  - England v Colombia - Winner : ENGLAND
  - Australia v France - Winner : AUSTRALIA
 
-100% accuracy on QF results.
+### 100% accuracy on QF results.
 
 SEMI FINALS Predictions based on Real Life Bracket:
  - Spain v Sweden - Winner : SWEDEN
  - England v Australia - Winner : ENGLAND
 
-100% again. The model delivers highly accurate predictions.
+### 100% again. The model delivers highly accurate predictions. Studies are initiated to understand why
 
-### ACTUAL RESULTS
+## ACTUAL RESULTS
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
 
 
