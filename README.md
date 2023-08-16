@@ -47,6 +47,8 @@ SEMI FINALS Predictions based on Real Life Bracket:
  - Spain v Sweden - Winner : SWEDEN
  - England v Australia - Winner : ENGLAND
 
+100% again. The model delivers highly accurate predictions.
+
 ### ACTUAL RESULTS
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
 
