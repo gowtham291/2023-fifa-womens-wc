@@ -48,7 +48,7 @@ SEMI FINALS Predictions based on Real Life Bracket:
  - England v Australia - Winner : ENGLAND
 
 FINALS Predictions based on Real Life Bracket:
- - Spain v ENgland - Winner : ENGLAND
+ - Spain v England - Winner : ENGLAND
 
 ### The model delivers highly accurate predictions. Studies are initiated to understand why
 
