@@ -55,4 +55,4 @@ FINALS Predictions based on Real Life Bracket:
 ## ACTUAL RESULTS
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
 
-## ![The Impact of the Tournament](https://www.youtube.com/watch?v=rPy7lSY_X2E)
+## [The Impact of the Tournament](https://www.youtube.com/watch?v=rPy7lSY_X2E)
