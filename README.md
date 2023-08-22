@@ -18,7 +18,7 @@ On the eve of the World Cup, the model predicts England to win it.
 
 ## Updates as we get through the tournament:
 
-Comparing with actual results of the group stage, the model predicted 58% of the games accurately. This means it lost out to a very simple ranking-based model by 10% points, but ah well. What we learn is that this is an indication that the model was trained on data that was not able to capture the entire story and the trends. It also showcases the multiple upsets that have this World Cup has seen transpire.
+Comparing with actual results of the group stage, the model predicted 58% of the games accurately. This means it lost out to a very simple ranking-based model by 10% points. What we learn is that this is an indication that the model was trained on data that was not able to capture the entire story and the trends. It also showcases the multiple upsets that have this World Cup has seen transpire.
 
 
 RO16 Predictions based on Real Life Bracket:
@@ -50,9 +50,9 @@ SEMI FINALS Predictions based on Real Life Bracket:
 FINALS Predictions based on Real Life Bracket:
  - Spain v England - Winner : ENGLAND
 
-### The model delivers highly accurate predictions. Studies are initiated to understand why
+### The model delivers highly accurate predictions. Studies are initiated to understand why.
 
 ## ACTUAL RESULTS
 ![Knockout Stage Prediction Bracket(as of the end of the group stage)](Images/actual.png)
 
-## [The Impact of the Tournament](https://www.youtube.com/watch?v=rPy7lSY_X2E)
+## [Why this tournament matters so much?](https://www.youtube.com/watch?v=rPy7lSY_X2E)
